@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2523-closest-prime-numbers-in-range) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
