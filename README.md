@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1720-decode-xored-array](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1720-decode-xored-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -35,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1720-decode-xored-array](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
