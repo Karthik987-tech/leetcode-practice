@@ -36,6 +36,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0190-reverse-bits) |
 | [1720-decode-xored-array](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
