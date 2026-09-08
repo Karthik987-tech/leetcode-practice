@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2523-closest-prime-numbers-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
