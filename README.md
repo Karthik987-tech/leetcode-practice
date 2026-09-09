@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1544-make-the-string-great) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
