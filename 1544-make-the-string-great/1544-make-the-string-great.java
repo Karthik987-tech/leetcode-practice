@@ -1,7 +1,6 @@
 class Solution {
     public String makeGood(String s) {
         Stack<Character> st1=new Stack<>();
-        Stack<Character> st2=new Stack<>();
         String s1="";
            for(int i=s.length()-1;i>=0;i--){
         if(st1.isEmpty()) st1.push(s.charAt(i));
@@ -11,9 +10,6 @@ class Solution {
       while(!st1.isEmpty()){
         s1+=st1.pop();
       } 
-    //   while(!st2.isEmpty()){
-    //     s1+=st2.pop();
-    //   }
       return s1;
     }
 }
