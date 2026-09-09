@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0371-sum-of-two-integers](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2523-closest-prime-numbers-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0371-sum-of-two-integers](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [1720-decode-xored-array](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
