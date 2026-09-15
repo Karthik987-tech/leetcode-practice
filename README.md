@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0136-single-number) |
 | [1720-decode-xored-array](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1720-decode-xored-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1544-make-the-string-great) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
