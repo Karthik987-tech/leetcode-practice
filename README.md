@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1706-where-will-the-ball-fall](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1706-where-will-the-ball-fall) |
 | [1720-decode-xored-array](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1720-decode-xored-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1544-make-the-string-great](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1706-where-will-the-ball-fall](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1706-where-will-the-ball-fall) |
 ## Bracket Sequences
 |  |
