@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0006-zigzag-conversion) |
 | [1544-make-the-string-great](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
