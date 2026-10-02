@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0498-diagonal-traverse](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1706-where-will-the-ball-fall](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1706-where-will-the-ball-fall) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0371-sum-of-two-integers) |
