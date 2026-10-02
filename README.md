@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0371-sum-of-two-integers](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0371-sum-of-two-integers) |
+| [0866-prime-palindrome](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0866-prime-palindrome) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2317-maximum-xor-after-operations](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2317-maximum-xor-after-operations) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2523-closest-prime-numbers-in-range) |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
