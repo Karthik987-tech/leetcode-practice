@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2317-maximum-xor-after-operations](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2317-maximum-xor-after-operations) |
+| [2614-prime-in-diagonal](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2317-maximum-xor-after-operations](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2317-maximum-xor-after-operations) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthik987-tech/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0866-prime-palindrome](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Karthik987-tech/leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [1706-where-will-the-ball-fall](https://github.com/Karthik987-tech/leetcode-practice/tree/master/1706-where-will-the-ball-fall) |
+| [2614-prime-in-diagonal](https://github.com/Karthik987-tech/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
